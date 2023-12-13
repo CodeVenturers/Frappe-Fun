@@ -1,0 +1,521 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2023-12-12 18:18:23.805179",
+ "default_view": "List",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "field_1",
+  "column_break_1duw2",
+  "field_2",
+  "column_break_v4uud",
+  "field_3",
+  "column_break_xtbhz",
+  "field_4",
+  "column_break_a3eo4",
+  "field_5",
+  "column_break_jdnq0",
+  "field_6",
+  "column_break_glttk",
+  "field_7",
+  "column_break_8rzia",
+  "field_8",
+  "column_break_6grpm",
+  "field_9",
+  "column_break_yhkpr",
+  "field_10",
+  "column_break_qveji",
+  "field_11",
+  "column_break_aegly",
+  "field_12",
+  "column_break_9y2zg",
+  "field_13",
+  "column_break_77cvs",
+  "field_14",
+  "column_break_qqb1o",
+  "field_15",
+  "column_break_hv0c6",
+  "field_16",
+  "column_break_7sbf3",
+  "field_17",
+  "column_break_l18mk",
+  "field_18",
+  "column_break_igqja",
+  "field_19",
+  "column_break_ayt7z",
+  "field_20",
+  "column_break_bpvza",
+  "field_21",
+  "column_break_5fc6d",
+  "field_22",
+  "column_break_z09qg",
+  "field_23",
+  "column_break_y6tua",
+  "field_24",
+  "column_break_xlnpu",
+  "field_25",
+  "column_break_dj7mx",
+  "field_26",
+  "column_break_2h9bu",
+  "field_27",
+  "column_break_kxr2x",
+  "field_28",
+  "column_break_alpkn",
+  "field_29",
+  "column_break_plgap",
+  "field_30",
+  "column_break_gtvyv",
+  "field_31",
+  "column_break_tmf9f",
+  "field_32",
+  "column_break_nbmqd",
+  "field_33",
+  "column_break_dmq5u",
+  "field_34",
+  "column_break_xc27l",
+  "field_35",
+  "column_break_trrwi",
+  "field_36",
+  "column_break_29rqx",
+  "field_37",
+  "column_break_mhnit",
+  "field_38",
+  "column_break_cnrwe",
+  "field_39",
+  "column_break_wsgdp",
+  "field_40",
+  "column_break_p1vv9",
+  "field_41",
+  "column_break_ju1vm",
+  "field_42",
+  "column_break_dsqvl",
+  "field_43",
+  "column_break_coq4l",
+  "field_44",
+  "column_break_v7ffn",
+  "field_45",
+  "column_break_n4rob",
+  "field_46",
+  "column_break_nxr4u",
+  "field_47",
+  "column_break_egfwg",
+  "field_48",
+  "column_break_hfame",
+  "section_break_ds4lm"
+ ],
+ "fields": [
+  {
+   "fieldname": "field_1",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_2",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_3",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_4",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_5",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_6",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_7",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_8",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_9",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_10",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_11",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_12",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_13",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_14",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_15",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_16",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_18",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_19",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_20",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_21",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_22",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_23",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_24",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_25",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_26",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_27",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_28",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_17",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "column_break_1duw2",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_v4uud",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_xtbhz",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_a3eo4",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_jdnq0",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_glttk",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_8rzia",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_6grpm",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_yhkpr",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_qveji",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_aegly",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_9y2zg",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_77cvs",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_qqb1o",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_hv0c6",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_7sbf3",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_l18mk",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_igqja",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_ayt7z",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_bpvza",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_5fc6d",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_z09qg",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_y6tua",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_xlnpu",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_dj7mx",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_2h9bu",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_kxr2x",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "field_29",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_32",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_33",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_34",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_35",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_36",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_37",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_39",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_40",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_41",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_42",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_43",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_44",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_45",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_46",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_47",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_48",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "column_break_alpkn",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_plgap",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_tmf9f",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_nbmqd",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_dmq5u",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_xc27l",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_trrwi",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_29rqx",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_mhnit",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_cnrwe",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_wsgdp",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_p1vv9",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_ju1vm",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_dsqvl",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_coq4l",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_v7ffn",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_n4rob",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_nxr4u",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_egfwg",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_gtvyv",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "field_30",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_31",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "field_38",
+   "fieldtype": "Float"
+  },
+  {
+   "fieldname": "column_break_hfame",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "section_break_ds4lm",
+   "fieldtype": "Section Break"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "issingle": 1,
+ "links": [],
+ "modified": "2023-12-12 21:17:03.851043",
+ "modified_by": "Administrator",
+ "module": "Frappe Fun",
+ "name": "Twinkling lights",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
