@@ -11,7 +11,6 @@ frappe.ui.form.on('Twinkling lights', {
 			intervalId = setInterval(function () {
 				// Iterate over fields from field_1 to field_50
 				for (var i = 1; i <= 50; i++) {
-					// Get the field name dynamically
 					var fieldName = 'field_' + i;
 
 					// Get a random color
