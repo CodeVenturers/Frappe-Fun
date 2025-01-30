@@ -13,6 +13,8 @@ frappe.ui.form.on('Twinkling lights', {
 				for (var i = 1; i <= 50; i++) {
 					var fieldName = 'field_' + i;
 
+					
+
 					// Get a random color
 					var randomColor = getRandomColor();
 
