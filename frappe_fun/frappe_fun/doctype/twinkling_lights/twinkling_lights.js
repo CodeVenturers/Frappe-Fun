@@ -10,6 +10,8 @@ frappe.ui.form.on('Twinkling lights', {
 			// Start the twinkling effect for all fields
 			intervalId = setInterval(function () {
 				// Iterate over fields from field_1 to field_50
+
+				
 				for (var i = 1; i <= 50; i++) {
 					var fieldName = 'field_' + i;
 
